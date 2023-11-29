@@ -51,7 +51,7 @@
             // 
             // monhoc
             // 
-            this.monhoc.Location = new System.Drawing.Point(280, 136);
+            this.monhoc.Location = new System.Drawing.Point(279, 136);
             this.monhoc.Name = "monhoc";
             this.monhoc.Size = new System.Drawing.Size(345, 22);
             this.monhoc.TabIndex = 1;
